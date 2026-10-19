@@ -1,4 +1,4 @@
-package rutaverde.modelo.servicio;
+package rutaverde.servicio;
 
 public class ConfirmacionReservaFacade {
 }

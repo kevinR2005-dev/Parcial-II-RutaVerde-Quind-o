@@ -1,4 +1,4 @@
-package rutaverde.modelo.controlador;
+package rutaverde.controlador;
 
 public class PrincipalController {
 }
