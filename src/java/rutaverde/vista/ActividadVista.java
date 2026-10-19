@@ -1,4 +1,4 @@
-package rutaverde.modelo.vista;
+package java.rutaverde.vista;
 
 public class ActividadVista {
 }

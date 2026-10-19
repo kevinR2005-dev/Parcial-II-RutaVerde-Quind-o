@@ -1,4 +1,4 @@
-package rutaverde.modelo.pago;
+package java.rutaverde.modelo.pago;
 
 public interface PasarelaPago {
 }

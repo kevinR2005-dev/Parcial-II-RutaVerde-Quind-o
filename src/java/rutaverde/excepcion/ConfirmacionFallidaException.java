@@ -1,4 +1,4 @@
-package rutaverde.excepcion;
+package java.rutaverde.excepcion;
 
 public class ConfirmacionFallidaException extends RuntimeException {
     public ConfirmacionFallidaException(String message) {

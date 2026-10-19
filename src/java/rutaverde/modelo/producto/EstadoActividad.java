@@ -1,4 +1,4 @@
-package rutaverde.modelo.producto;
+package java.rutaverde.modelo.producto;
 
 public enum EstadoActividad {
 }

@@ -1,4 +1,4 @@
-package rutaverde.modelo;
+package java.rutaverde.modelo;
 
 public class Cliente {
 }

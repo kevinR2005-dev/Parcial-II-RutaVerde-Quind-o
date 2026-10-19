@@ -1,4 +1,4 @@
-package rutaverde.excepcion;
+package java.rutaverde.excepcion;
 
 public class EntidadNoEncontrada extends RuntimeException {
     public EntidadNoEncontrada(String message) {

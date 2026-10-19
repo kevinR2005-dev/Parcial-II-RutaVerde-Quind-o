@@ -1,4 +1,4 @@
-package rutaverde.modelo.controlador;
+package java.rutaverde.controlador;
 
 public class ActividadController {
 }
