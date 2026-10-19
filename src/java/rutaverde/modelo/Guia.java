@@ -1,4 +1,4 @@
-package java.rutaverde.modelo;
+package rutaverde.modelo;
 
 public class Guia {
 }

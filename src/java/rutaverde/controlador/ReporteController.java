@@ -1,4 +1,4 @@
-package java.rutaverde.controlador;
+package rutaverde.controlador;
 
 public class ReporteController {
 }

@@ -1,4 +1,4 @@
-package java.rutaverde.app;
+package rutaverde.app;
 
 public class DatosIniciales {
 }

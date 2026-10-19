@@ -1,4 +1,4 @@
-package java.rutaverde.modelo.voucher;
+package rutaverde.modelo.voucher;
 
 public class GeneradorVoucher {
 }

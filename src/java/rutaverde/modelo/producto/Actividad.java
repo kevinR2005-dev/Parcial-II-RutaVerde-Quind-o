@@ -1,4 +1,4 @@
-package java.rutaverde.modelo.producto;
+package rutaverde.modelo.producto;
 
 public class Actividad {
 }

@@ -1,4 +1,4 @@
-package java.rutaverde.modelo.pago;
+package rutaverde.modelo.pago;
 
 public class PagoAndinoAPI {
 }

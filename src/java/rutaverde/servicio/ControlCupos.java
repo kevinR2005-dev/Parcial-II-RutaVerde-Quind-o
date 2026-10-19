@@ -1,4 +1,4 @@
-package java.rutaverde.servicio;
+package rutaverde.servicio;
 
 public class ControlCupos {
 }

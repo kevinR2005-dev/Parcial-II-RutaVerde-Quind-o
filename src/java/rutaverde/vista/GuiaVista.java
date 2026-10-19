@@ -1,4 +1,4 @@
-package java.rutaverde.vista;
+package rutaverde.vista;
 
 public class GuiaVista {
 }

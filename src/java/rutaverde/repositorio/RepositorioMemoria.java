@@ -1,4 +1,4 @@
-package java.rutaverde.repositorio;
+package rutaverde.repositorio;
 
 public class RepositorioMemoria {
 }
