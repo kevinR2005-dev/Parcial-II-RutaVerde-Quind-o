@@ -8,11 +8,9 @@ import java.util.List;
 import java.util.Map;
 import java.util.function.Function;
 
-
 public class RepositorioMemoria<T, ID> implements Repositorio<T, ID> {
 
     private final Function<T, ID> extractorId;
-    // LinkedHashMap conserva el orden de inserción al listar
     private final Map<ID, T> datos = new LinkedHashMap<>();
 
     public RepositorioMemoria(Function<T, ID> extractorId) {
