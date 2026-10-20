@@ -27,7 +27,7 @@ public class DatosIniciales {
 
     /** Datos básicos de la agencia (los usa el encabezado del voucher). */
     public static Agencia crearAgencia() {
-        return new Agencia("RutaVerde Quindío", "901.234.567-8", "RNT 123456",
+        return new Agencia("RutaVerde Quindío", "901.234.567-8", "123456",
                 "Calle 20 # 14-35, Armenia, Quindío", "606 7410000",
                 "reservas@rutaverde.co", "www.rutaverde.co");
     }
