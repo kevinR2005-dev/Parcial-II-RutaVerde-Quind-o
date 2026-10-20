@@ -33,7 +33,7 @@ public class ReporteServicioTest {
         cafetal = new Actividad("A2", "Cafetal", "Armenia", 4, 50000, 20, NivelDificultad.BAJA);
     }
 
-    // Crea una reserva, la confirma con el número dado y la registra
+
     private Reserva confirmada(int numero, Producto p, LocalDate fecha, int viajeros) {
         Reserva r = new Reserva.Builder().conCliente(cliente).conProducto(p)
                 .conFecha(fecha).conViajeros(viajeros).build();
