@@ -1,5 +1,8 @@
 package rutaverde.servicio;
 
+import rutaverde.modelo.producto.Actividad;
+import rutaverde.modelo.producto.Producto;
+
 import java.time.LocalDate;
 import java.util.HashMap;
 import java.util.Map;

@@ -5,13 +5,15 @@ import rutaverde.modelo.Reserva;
 
 public abstract class GeneradorVoucher {
 
+    private final Agencia agencia;
+
     protected GeneradorVoucher(Agencia agencia) {
+
         this.agencia = agencia;
     }
 
-    /** Estructura común a todos los canales; no se puede sobrescribir. */
     public final String emitir(Reserva r) {
-        DetalleVoucher detalle = crearDetalle();      // <-- no hay "new" aquí
+        DetalleVoucher detalle = crearDetalle();
         return crearEncabezado() + "\n" + detalle.generar(r) + "\n" + crearPie();
     }
     protected abstract DetalleVoucher crearDetalle();

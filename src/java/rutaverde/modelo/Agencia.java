@@ -31,10 +31,12 @@ public class Agencia {
     }
 
     public String getNombreComercial() {
+
         return nombreComercial;
     }
 
     public String getNit() {
+
         return nit;
     }
 
