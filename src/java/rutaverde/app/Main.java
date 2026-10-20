@@ -33,10 +33,7 @@ import rutaverde.servicio.NotificadorConsola;
 import rutaverde.servicio.ReporteServicio;
 import rutaverde.servicio.ReservaServicio;
 
-/**
- * Punto de entrada y "composition root": aquí se crean todas las dependencias
- * y se inyectan por constructor. Ninguna otra clase usa "new" para sus colaboradores.
- */
+
 public class Main extends Application {
 
     @Override
